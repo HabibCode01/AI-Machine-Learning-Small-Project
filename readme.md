@@ -10,12 +10,12 @@ Upload: The student or user uploads a PDF file through a friendly web interface 
 
 Chunking & Storage: The app reads the PDF, breaks the text into smaller pieces, converts them into mathematical vectors using Hugging Face embeddings, and stores them in a local database called ChromaDB.
 
-Search & Answer: When you ask a question, the app searches ChromaDB for the closest matching text blocks, sends those blocks to Gemini 1.5 Flash, and displays the clean answer on the screen.
+Search & Answer: When you ask a question, the app searches ChromaDB for the closest matching text blocks, sends those blocks to Gemini 3.5 Flash, and displays the clean answer on the screen.
 
 Tech Stack
 Frontend UI: Streamlit
 
-AI Core: Google GenAI (Gemini-1.5-flash)
+AI Core: Google GenAI (Gemini-3.5-flash)
 
 Database & Processing: ChromaDB, LangChain, PyTorch
 
