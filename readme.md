@@ -1,4 +1,4 @@
-# 🚀 My AI & Machine Learning Portfolio
+# 🚀 My AI & Machine Learning Projects
 
 Welcome to my AI portfolio! This repository contains four distinct projects that demonstrate different areas of Artificial Intelligence, ranging from simple document search apps to full-stack machine learning models and advanced autonomous AI agents.
 
