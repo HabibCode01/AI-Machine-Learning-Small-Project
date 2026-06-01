@@ -11,7 +11,6 @@ DocuMind AI is a smart document reader that allows users to upload a PDF file an
 
 ### 📸 Project Demo
 ![DocuMind AI Chatbot Result](path/to/your/documind_screenshot.png)
-*(Replace `path/to/your/documind_screenshot.png` with your actual image file path)*
 
 ### How it works (RAG Workflow)
 * **Upload:** The student or user uploads a PDF file through a friendly web interface built with Streamlit.
@@ -32,7 +31,6 @@ VisionGuard is a real-time computer vision application designed to detect and id
 
 ### 📸 Project Demo
 ![VisionGuard Object Detection Demo](path/to/your/visionguard_screenshot.jpg)
-*(Replace `path/to/your/visionguard_screenshot.png` with your actual image file path)*
 
 ### How it works
 * **Video Feed:** The app captures live frames from a laptop webcam or video file using the OpenCV library.
@@ -53,7 +51,6 @@ ChurnPulse is a complete full-stack Machine Learning project built to predict wh
 
 ### 📸 Project Demo
 ![ChurnPulse Dashboard Result](path/to/your/churnpulse_screenshot.png)
-*(Replace `path/to/your/churnpulse_screenshot.png` with your actual image file path)*
 
 ### How it works
 * **The Model:** A Random Forest Classifier machine learning model is trained on historical customer data to find patterns (for example, young customers with high spend but short tenure are high-risk).
@@ -74,7 +71,6 @@ This is the most advanced project in the portfolio. Instead of just sending a qu
 
 ### 📸 Project Demo & Architecture
 ![Autonomous Agent Architecture Diagram](agent_architecture.png)
-*(This automatically links to the agent_architecture.png file your script generates!)*
 
 ### How it works (The State Graph)
 * **Retrieve Node:** The system first searches a local text database for an answer to your question.
