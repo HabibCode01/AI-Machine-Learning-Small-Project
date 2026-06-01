@@ -30,7 +30,7 @@ DocuMind AI is a smart document reader that allows users to upload a PDF file an
 VisionGuard is a real-time computer vision application designed to detect and identify objects through a live camera stream or a pre-recorded video. It acts like an automated security guard or monitor, recognizing items instantly as they appear in the frame.
 
 ### 📸 Project Demo
-![VisionGuard Object Detection Demo](VisionGuard/visionguard_screenshot.jpg)
+![VisionGuard Object Detection Demo](VisionGuard/visionguard_screenshot.jpeg)
 
 ### How it works
 * **Video Feed:** The app captures live frames from a laptop webcam or video file using the OpenCV library.
