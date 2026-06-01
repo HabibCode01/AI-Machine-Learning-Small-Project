@@ -10,7 +10,7 @@ Welcome to my AI portfolio! This repository contains four distinct projects that
 DocuMind AI is a smart document reader that allows users to upload a PDF file and ask questions about its content in plain language. Instead of scrolling through hundreds of pages, the AI finds the exact sections relevant to your question and uses Google's Gemini model to give you a precise answer based only on that document.
 
 ### 📸 Project Demo
-![DocuMind AI Chatbot Result](path/to/AI-Machine-Learning-Small-Project/Documind-AI/documind_screenshot.png)
+![DocuMind AI Chatbot Result](DocuMind-AI/documind_screenshot.png)
 
 ### How it works (RAG Workflow)
 * **Upload:** The student or user uploads a PDF file through a friendly web interface built with Streamlit.
@@ -30,7 +30,7 @@ DocuMind AI is a smart document reader that allows users to upload a PDF file an
 VisionGuard is a real-time computer vision application designed to detect and identify objects through a live camera stream or a pre-recorded video. It acts like an automated security guard or monitor, recognizing items instantly as they appear in the frame.
 
 ### 📸 Project Demo
-![VisionGuard Object Detection Demo](path/to/AI-Machine-Learning-Small-Project/VisionGuard/visionguard_screenshot.jpg)
+![VisionGuard Object Detection Demo](VisionGuard/visionguard_screenshot.jpg)
 
 ### How it works
 * **Video Feed:** The app captures live frames from a laptop webcam or video file using the OpenCV library.
@@ -50,7 +50,7 @@ VisionGuard is a real-time computer vision application designed to detect and id
 ChurnPulse is a complete full-stack Machine Learning project built to predict whether a customer is going to stop using a service (called "churning") based on metrics like their age, monthly spending, and how many months they have been a subscriber.
 
 ### 📸 Project Demo
-![ChurnPulse Dashboard Result](path/to/AI-Machine-Learning-Small-Project/ChurnPulse/churnpulse_screenshot.png)
+![ChurnPulse Dashboard Result](ChurnPulse/churnpulse_screenshot.png)
 
 ### How it works
 * **The Model:** A Random Forest Classifier machine learning model is trained on historical customer data to find patterns (for example, young customers with high spend but short tenure are high-risk).
@@ -70,7 +70,7 @@ ChurnPulse is a complete full-stack Machine Learning project built to predict wh
 This is the most advanced project in the portfolio. Instead of just sending a question straight to an AI and hoping for a good answer, this system builds a team of mini-AI agents that talk to each other, grade each other's work, and autonomously look things up on the internet if their local knowledge isn't good enough.
 
 ### 📸 Project Demo & Architecture
-![Autonomous Agent Architecture Diagram](path/to/AI-Machine-Learning-Small-Project/Autonomous-Agent-Graph/agent_architecture.png)
+![Autonomous Agent Architecture Diagram](Autonomous-Agent-Graph/agent_architecture.png)
 
 ### How it works (The State Graph)
 * **Retrieve Node:** The system first searches a local text database for an answer to your question.
